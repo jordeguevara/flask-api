@@ -38,3 +38,4 @@ urllib3==1.25.11
 virtualenv==20.14.1
 wcwidth==0.1.9
 websocket-client==0.59.0
+Flask==2.1.0
